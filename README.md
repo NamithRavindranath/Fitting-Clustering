@@ -1,0 +1,2 @@
+# Fitting-Clustering
+Shopping trends 
